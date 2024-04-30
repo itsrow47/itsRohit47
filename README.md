@@ -1,6 +1,10 @@
-# Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN4dmZ6eTFzcmZ1Z2UxNmtzb242aDJtMHFsb2NiaTZtYW9haWRuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TK1S1fCHi6T3iwpPZq/giphy.gif" width="150px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN4dmZ6eTFzcmZ1Z2UxNmtzb242aDJtMHFsb2NiaTZtYW9haWRuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TK1S1fCHi6T3iwpPZq/giphy.gif" width="200px">
+
+# Hiii
+
 ## 🚀 About Me
 🎓 I am Rohit, an **IT** (specializing in **Cloud Computing and Networking**), currently working as a Freelance Web Developer.
+
 
 ### 🧰 Toolbox
 

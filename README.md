@@ -3,7 +3,7 @@
 # Hiii
 
 ## 🚀 About Me
-🎓 I am Rohit, an **IT** (specializing in **Cloud Computing and Networking**), currently working as a Freelance Web Developer.
+🎓 I am Rohit
 
 
 ### 🧰 Toolbox

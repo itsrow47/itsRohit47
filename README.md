@@ -42,6 +42,6 @@ Summary of most used languages
 
 ## Social 😻
 
-<a href="[https://www.linkedin.com/in/iamrohitbajaj/]">
+<a href="https://www.linkedin.com/in/iamrohitbajaj/">
   <img align="left" alt="Rohit's LinkedIn" src="https://img.icons8.com/doodle/50/000000/linkedin--v2.png"/>
 </a>

@@ -1,9 +1,33 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN4dmZ6eTFzcmZ1Z2UxNmtzb242aDJtMHFsb2NiaTZtYW9haWRuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TK1S1fCHi6T3iwpPZq/giphy.gif" width="200px">
-
 # Hiii
 
 ## 🚀 About Me
-🎓 I am Rohit
+👋 Hello, I'm Rohit, a recent Bachelor of IT graduate from Deakin University with a passion for technology and innovation.
+
+🎓 During my time at Deakin, I immersed myself in a variety of projects, both academic and personal. Notably, I led a full-stack software development initiative aimed at supporting wildlife conservation in the wild Otways rainforests. These experiences have honed my skills in HTML, CSS, JavaScript, TypeScript, Python, C#.NET, and C++, among others.
+
+💼 Currently, I'm leveraging my knowledge as a part of the School of IT team at Deakin University, where I assist undergraduate students with their programming queries and ensure they're on the right path with their studies. I thrive in collaborative environments but am equally comfortable working autonomously, driven by my commitment to continuous learning and skill development.
+
+🌐 My technical toolkit includes proficiency in frontend technologies such as Next.js, Tailwind CSS, and React.js, as well as backend expertise with Node.js, Express.js, and Postman. I'm adept at managing databases, including MySQL, MongoDB, Firebase, and Vercel Postgres, and have a solid understanding of DevOps practices, including GitHub CI/CD, AWS, Docker, and Kubernetes.
+
+💻 Technical Skills:
+- Languages: HTML, CSS, JavaScript, TypeScript, Python, C#.NET, C++
+- Frontend: Next.js, Tailwind CSS, TypeScript, React.js
+- Backend: Node.js, Express.js, Postman
+- Database: MySQL, MongoDB, Firebase, Vercel Postgres
+- DevOps: GitHub CI/CD, AWS, Docker, Kubernetes
+- UI Design: Figma
+
+🎓 I recently obtained my Microsoft 365 Fundamentals certification and am an AWS Certified Cloud Practitioner since early 2023. Currently, I'm studying for the HashiCorp Certified: Terraform Associate certification to deepen my expertise in Infrastructure as Code (IaC).
+
+🔒 With a strong grasp of the Secure Software Development LifeCycle (SSDLC) and fundamentals of UI/UX design, I'm poised to tackle challenges in programming, analysis, and problem-solving roles.
+
+🚀 I'm eager to connect with like-minded professionals and explore opportunities where I can contribute my skills and passion for technology. Whether it's on-site or remote, I'm ready to take on new challenges and make meaningful contributions to innovative projects.
+
+📚 Work Rights: 
+4-year Temporary Graduate 485 visa (Expires: 04 MAY 2028)
+
+📝 Language Proficiency:
+English (PTE score: 80/90), Punjabi, Hinglish
 
 
 ### 🧰 Toolbox

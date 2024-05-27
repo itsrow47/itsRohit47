@@ -1,66 +1,83 @@
-# Namaste World! Welcome to My GitHub! 🌟
-## A bit about myself
-## Early Years
-- **2002** - 👋 Namaste world!
-- **2008** - 🎓 Graduated with first-class Honors from KG School! (I AM SERIOUS)
+![ROHIT BAJAJ](https://github.com/itsRohit47/itsRohit47/assets/108188800/ff38d355-dfc8-4ac4-b9d0-2c18fa01a40c)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/iamrohitbajaj/)
 
-## Education and Early Achievements
-- **2018** - 🎓 Graduated with 93% from year 10, by this time I had won 20+ academic awards (unfortunately, the real world does not require this, feeling frauded now!)
-- **2018** - 💻 Year 11 - Got introduced to programming, computer networks, database
-- **2019** - 🥇 Year 12 - Top computer science student in class
-- **2020** - 🎓 Graduated year 12 with 94%
+#### Metadata
+- 👋 Name - Rohit Bajaj
+- 🦘 Location - Melbourne, Australia
+- 💻 Field of Study - Information Technlogy
+- 🔥 Years of Experience - 9 months Internship based experince
+- 🍃 Currently Learning Angular & TypeScript
+- 🍀 Open Source Contribution - OnTrack, a leading Learning Management System used by Top Universities including Deakin University, Monash University, and UNSW
+- 😃 Looking for **Internships** and **Graduate Level Roles**
+  
+<hr>
 
-## Initial Steps in IT
-- **2020 (Jun)** - 😮 Came across this video on YouTube (Learn HTML in 60 minutes) - Built my first ever web page
-- **2020 (July)** - 🦠 It's COVID and I find myself binge-watching tutorials on YouTube on HTML, and CSS
-- **2020 (Jul-Sep)** - 🔤 Prepared for the IELTS exam!
-- **2021** - 📚 I find myself studying IT subjects at Deakin University Remotely from India due to COVID
+#### Overview
+Hi, i am a Melbourne based freelancer and a casual tutor at Deakin University where i help first year IT students with programming units. I am passionate about technology and love working with people, continous learner and action oriented individual excited to start my professioanl career in IT. Looking for full time internship/grad roles.
 
-## Moving to Australia, International Student Life, and Career Progression
-- **2022** - 🇦🇺 It's a new world, Australia it is mate!
-- **2022** - 😅 Changed 8 jobs in one year - worked as a pizza delivery boy, gas station, Fast food restaurant, cafe, uber, and so on 
-- **2023** - 💻 Got my first internship as an IT Support Technician in Melbourne
-- **2023 (Mar-Jun)** - 👨‍💻 Got recruited as a junior web developer for a final capstone project
-- **2023 (Jul-Nov)** - 🔥 Promoted as a lead cloud engineer in the same project
-- **2023 (Nov)** - 🎓 Graduated with a distinction.
+<hr>
 
-## Entrepreneurial Ventures and Current Focus
-- **2024 (Jan-Apr)** - 🚀 Started my own little business around website development - built websites for 2 real clients
-- **NOW** - 😶‍🌫️ I find myself upskilling in the field of IT specifically web development, software engineering, cloud computing, and DevOps
+#### Education
+I have studied Bachelor's of IT and i have an inroductory knowledge of all things IT. Throughtout three years of studies, i got introduced to subjects like:
+- Data Science
+- Cyber Security
+- Software development
+- User Centered Design & UX Fundaments
+- Cloud Computing
+- Computer Networking
+- Database Management
+- Bussiness Requirements Analysis
+- 3D Design & Animation.
+  
+<hr>
+
+#### Professional experience
+- Web Developer Intern (3 months)
+- Cloud Engineer Intern (3 months)
+- IT Support Technician Intern (3 months)
+- Deloitte Technology Job Simulation Virtual Intern(1 Week)
+  
+<hr>
+
+#### Toolbox
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<hr>
+
+#### Latest Projects
+
+- **Ontrack** - Contribute to an Open Source Learning Managaement System (LMS) developed within the School of IT at Deakin University used by Australia's Top Universities including Monash, Deakin, & UNSW.
+- **Invoice Traceker** - Developed a full-stack web based invoice tracker software including features like Authentication, Loading UIs, Server Side Rendering, Data Fetching, Pagination, Client side search using url queries, a beautiful landing page and so on.
+- **Personal Website** - Developed myself a portfolio website using Next.js and Tailwind CSS, deployed on Vercel.
+
+<hr>
+
+#### Open to connect
+Please feel free to connect with me on 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/iamrohitbajaj/)
+
+You can also send me an email on 
+rohitbajaj13@yahoo.com
 
 
-# Key Learnings
-
-# Knowledge and Learning
-1. **Knowledge is power**
-2. **Learn more, earn more**
-3. **Skills matter over where you studied and what your grades are**
-
-# Personal Development and Mindset
-4. **Actions lead to results**
-5. **Never be afraid to make mistakes**
-6. **Risk vs Regret - choose risk**
-7. **Thoughts are just a rush of chemicals in your brain, overthinking wastes time, rather discuss with people you trust**
-8. **Focus on yourself and the world will adjust**
-9. **Listen to your gut feeling - the God inside told you something**
-10. **Be like water - adjust to the environment**
-11. **Keep following your heart, dots will connect**
-12. **Your journey is unique, uncompared to anyone else on earth, never compare yourself with anyone**
-13. **You can always start again! set time = 0**
-14. **Discipline and consistency is all you need to achieve anything**
-
-# Relationships and Social Interactions
-
-15. **Humanity is the biggest religion**
-16. **Connections in Australia are super important**
-17. **If you can't say something good, stay quiet**
-18. **Never fall in love, it is dangerous**
-19. **Learn to forgive**
-20. **Relations over monetary benefits**
-21. **Acknowledge you are wrong when you know you are**
-22. **A lie told to save a relationship is not a lie**
-
-# Caution and Ethics
-22. **Stay away from online scams**
-
-...... a lot more .....
+##### Thankyou for your time! 🙏

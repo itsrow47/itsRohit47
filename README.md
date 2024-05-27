@@ -1,7 +1,5 @@
 # Namaste World! Welcome to My GitHub! 🌟
-
 ## A bit about myself
-
 ## Early Years
 - **2002** - 👋 Namaste world!
 - **2008** - 🎓 Graduated with first-class Honors from KG School! (I AM SERIOUS)
@@ -20,7 +18,7 @@
 
 ## Moving to Australia, International Student Life, and Career Progression
 - **2022** - 🇦🇺 It's a new world, Australia it is mate!
-- - **2022** - 😅 Changed 8 jobs in one year - worked as a pizza delivery boy, gas station, Fast food restaurant, cafe, uber, and so on 
+- **2022** - 😅 Changed 8 jobs in one year - worked as a pizza delivery boy, gas station, Fast food restaurant, cafe, uber, and so on 
 - **2023** - 💻 Got my first internship as an IT Support Technician in Melbourne
 - **2023 (Mar-Jun)** - 👨‍💻 Got recruited as a junior web developer for a final capstone project
 - **2023 (Jul-Nov)** - 🔥 Promoted as a lead cloud engineer in the same project
@@ -31,7 +29,7 @@
 - **NOW** - 😶‍🌫️ I find myself upskilling in the field of IT specifically web development, software engineering, cloud computing, and DevOps
 
 
-## key learnings
+# Key Learnings
 
 # Knowledge and Learning
 1. **Knowledge is power**

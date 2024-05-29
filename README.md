@@ -4,29 +4,29 @@
 #### Metadata
 - 👋 Name - Rohit Bajaj
 - 🦘 Location - Melbourne, Australia
-- 💻 Field of Study - Information Technlogy
-- 🔥 Years of Experience - 9 months Internship based experince
-- 🍃 Currently Learning Angular & TypeScript
+- 💻 Field of Study - Information Technology
+- 🔥 Years of Experience - 9 months of Internship based experience
+- 🍃 Currently learning - Angular, TypeScript, & DSA
 - 🍀 Open Source Contribution - OnTrack, a leading Learning Management System used by Top Universities including Deakin University, Monash University, and UNSW
 - 😃 Looking for **Internships** and **Graduate Level Roles**
   
 <hr>
 
 #### Overview
-Hi, i am a Melbourne based freelancer and a casual tutor at Deakin University where i help first year IT students with programming units. I am passionate about technology and love working with people, continous learner and action oriented individual excited to start my professioanl career in IT. Looking for full time internship/grad roles.
+Hi, I am a Melbourne-based freelancer and a casual tutor at Deakin University where I help first-year IT students with programming units. I am passionate about technology and love working with people, continuous learner and action-oriented individual excited to start my professional career in IT. Looking for full-time internship/grad roles.
 
 <hr>
 
 #### Education
-I have studied Bachelor's of IT and i have an inroductory knowledge of all things IT. Throughtout three years of studies, i got introduced to subjects like:
+I have studied Bachelor's of IT and I have an introductory knowledge of all things IT. Throughout three years of studies, i was introduced to subjects like:
 - Data Science
 - Cyber Security
 - Software development
-- User Centered Design & UX Fundaments
+- User-Centered Design & UX Fundaments
 - Cloud Computing
 - Computer Networking
 - Database Management
-- Bussiness Requirements Analysis
+- Business Requirements Analysis
 - 3D Design & Animation.
   
 <hr>
@@ -66,9 +66,9 @@ I have studied Bachelor's of IT and i have an inroductory knowledge of all thing
 
 #### Latest Projects
 
-- **Ontrack** - Contribute to an Open Source Learning Managaement System (LMS) developed within the School of IT at Deakin University used by Australia's Top Universities including Monash, Deakin, & UNSW.
-- **Invoice Traceker** - Developed a full-stack web based invoice tracker software including features like Authentication, Loading UIs, Server Side Rendering, Data Fetching, Pagination, Client side search using url queries, a beautiful landing page and so on.
-- **Personal Website** - Developed myself a portfolio website using Next.js and Tailwind CSS, deployed on Vercel.
+- **Ontrack** - Currently I am Contributing to an Open Source Learning Management System (LMS) developed within the School of IT at Deakin University and used by Australia's Top Universities including Monash, Deakin, & UNSW.
+- **Invoice Tracker** - Developed a full-stack web-based invoice tracker software including features like Authentication, Loading UIs, Server Side Rendering, Data Fetching, Pagination, Client side search using URL queries, a beautiful landing page and so on.
+- **Personal Website** - Developed a portfolio website using Next.js and Tailwind CSS, deployed on Vercel.
 
 <hr>
 
@@ -80,4 +80,4 @@ You can also send me an email on
 rohitbajaj13@yahoo.com
 
 
-##### Thankyou for your time! 🙏
+##### Thank you for your time! 🙏
